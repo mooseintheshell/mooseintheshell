@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm mooseintheshell  🫎👋,</h1>
+<h1 align="center"> Hi! I'm mooseintheshell 🫎👋</h1>
 <h3 align="center">A computer science student in reality. A moose wandering the cyberspace, looking for vulnerabilities to bellow about here.</h3>
 
 - 🔭 I’m currently working on **earning my Security+ and HTB CPTS certs.**
