@@ -8,8 +8,9 @@
 - 🤝 I’m looking for help with **improving my skills and knowledge, as well as understanding the new landscape.**
 
 - 👨‍💻 All of my projects are available right here on GitHub!
-  - My scripts and other custom tools that ease my day to day life and focus on learning!
-  - 
+  - 🔧 My Python/Bash automation scripts, alongside other custom tools that ease my learning experience: **[Security Scripting Toolkit](https://github.com/mooseintheshell/security-scripting-and-tools)**
+  - 📖 My knowledge base about methologies, attacks, and cybersecurity knowledge to track: **[Security Knowledge Base](https://github.com/mooseintheshell/methodology-notese)**
+  - 📝 My reports and writeups across various machines, the key to geting paid and getting more forest snacks: **[Vulnerability Assessment Samples](https://github.com/mooseintheshell/writeups-and-reportss)**
 
 - ⚡ Fun fact: **Moose are the largest deers of their species!**
 
